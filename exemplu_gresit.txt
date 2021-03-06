@@ -1,0 +1,28 @@
+int y;
+int y;
+const int ct := 3 ;
+struct str { int ceva; };
+char vector[4];
+int exp;
+int fct(int a) { return 1; };
+char fct(int b,char c) { return 'c';};
+int arc(int b) { return true; };
+begin
+int x ;
+exp := 3 * true + ~salut~ ;
+x := ~salut~ ;
+int ps;
+ps := fct( 'c' ) ;
+int cs;
+cs := fct ( 3 , 4 , 6 );
+int rt;
+rt := 3;
+char ls;
+ls := fct(rt);
+ct := 2;
+Eval ( 3 * true + ~salut~ ) ;
+vector[20] := 'c';
+str.ceva := 2;
+ceva := 21;
+str.altceva := 3;
+end
